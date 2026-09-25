@@ -17,6 +17,7 @@ I build practical AI systems that combine data science, automation, product thin
 | --- | --- |
 | [agentic-ai-risk-auditor](https://github.com/CathySong/agentic-ai-risk-auditor) | AI governance mindset, risk evaluation, structured diagnostics, and practical safety workflows. |
 | [daily-news-agent](https://github.com/CathySong/daily-news-agent) | Agent automation, information filtering, scheduled workflows, and decision-support summaries. |
+| [SmartReview](https://github.com/CathySong/SmartReview) | Applied AI product thinking, review workflows, feedback analysis, and TypeScript implementation. |
 | [luna-arts-studio.io](https://github.com/CathySong/luna-arts-studio.io) | Full-stack product execution with TypeScript, frontend systems, and deployed user experience. |
 | [OpenClaw-Medical-Skills](https://github.com/CathySong/OpenClaw-Medical-Skills) | Open-source AI skills ecosystem experience and domain-specific agent workflows. |
 
