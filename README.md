@@ -46,3 +46,7 @@ I like building systems that are useful enough to run repeatedly, not just demos
 - Data products for marketing, operations, and decision intelligence
 
 I am especially interested in Staff Data Scientist, AI Engineer, Applied Scientist, and AI Product Engineer roles where the job is to build reliable AI systems with real users, clear metrics, and business impact.
+
+## Contact
+
+Email: cathyismee@gmail.com
